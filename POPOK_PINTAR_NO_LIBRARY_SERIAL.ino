@@ -19,8 +19,8 @@
 //pin
 const int buzzer = 5;
 const int ledm = 6; // merah BAK
-const int ledk = 7; //kuning BAB
-const int leds =8; // hijau ON
+const int ledk = 7; //hijau BAB
+const int leds =8; // kuning ON
 
 
 class HTU21D {
